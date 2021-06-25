@@ -2,7 +2,7 @@
 
 ### Oliver Mey, André Schneider, Olaf Enge-Rosenblatt, Dirk Mayer, Christian Schmidt, Samuel Klein and Hans-Georg Herrmann
 
-This GitHub repository is part of a paper submission to the MDPI Journal *Processes*, Special Issue *Process Control and Smart Manufacturing for Industry 4.0* (see <REFERENCE>).
+This GitHub repository is part of a paper submission to the MDPI Journal *Processes*, Special Issue *Process Control and Smart Manufacturing for Industry 4.0* (see https://www.mdpi.com/2227-9717/9/7/1108).
 
 *(Please be patient. This repository is under construction.)*
 
